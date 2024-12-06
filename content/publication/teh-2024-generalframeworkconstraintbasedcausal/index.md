@@ -1,7 +1,7 @@
 ---
 title: A General Framework for Constraint-based Causal Learning
 authors:
-- Kai Z. Teh
+- admin
 - Kayvan Sadeghi
 - Terry Soo
 date: '2024-01-01'
