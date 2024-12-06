@@ -1,7 +1,7 @@
 ---
 title: Localised Natural Causal Learning Algorithms for Weak Consistency Conditions
 authors:
-- Kai Teh
+- admin
 - Kayvan Sadeghi
 - Terry Soo
 date: 2024-None-01
