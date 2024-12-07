@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Spain
 
-summary: We present an implementation of a causal discovery algorithm under relaxed conditions.
+summary: We present an implementation of a causal discovery algorithm that works under relaxed conditions.
 abstract: 'We present an implementation of a causal discovery algorithm that works under relaxed conditions.'
 
 # Talk start and end times.
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs](https://www.auai.org/uai2024/)'
+  caption: 'Image credit: [**uai2024**](https://www.auai.org/uai2024/)'
   focal_point: Right
 
 #links:
