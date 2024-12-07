@@ -17,12 +17,11 @@ abstract: 'We present an implementation of a causal discovery algorithm that wor
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-17'
+#date: '2024-07-17'
 date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
