@@ -7,7 +7,7 @@ event_url: https://www.auai.org/uai2024/
 location: Barcelona
   country: Spain
 
-summary: A poster presentation about an implementation of a causal discovery algorithm that relaxes faithfulness.
+summary: A poster presentation about an implementation of a causal discovery algorithm under relaxed conditions.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
