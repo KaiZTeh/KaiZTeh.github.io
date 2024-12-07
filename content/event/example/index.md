@@ -1,13 +1,19 @@
 ---
 title: Poster Presentation at UAI 2024
 
-event: Unvertainty in Artificial Intelligence conference 2024
+event: Uncertainty in Artificial Intelligence conference 2024
 event_url: https://www.auai.org/uai2024/
 
 location: Barcelona
+address:
+  street: 
+  city: 
+  region: 
+  postcode: 
   country: Spain
 
-summary: A poster presentation about an implementation of a causal discovery algorithm under relaxed conditions.
+summary: We present an implementation of a causal discovery algorithm under relaxed conditions.
+abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
