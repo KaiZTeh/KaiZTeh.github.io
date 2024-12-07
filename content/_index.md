@@ -50,8 +50,8 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
-      columns: 1
+      view: card
+      columns: 2
   - block: collection
     id: news
     content:
