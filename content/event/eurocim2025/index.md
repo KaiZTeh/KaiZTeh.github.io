@@ -17,7 +17,7 @@ abstract: 'We present causal interpretations of anterial graphs, a class of grap
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: '2025-04-10T12:00:00Z'
+date: '2025-04-10T12:00:00Z'
 date_end: ''
 all_day: false
 
