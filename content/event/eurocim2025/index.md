@@ -1,23 +1,23 @@
 ---
-title: Poster Presentation at UAI 2024
+title: Oral Presentation at EUROCIM 2025
 
-event: Uncertainty in Artificial Intelligence conference 2024
-event_url: https://www.auai.org/uai2024/
+event: European Causal Inference Meeting 2025
+event_url: https://www.eurocim.org/
 
-location: Barcelona
+location: Ghent
 address:
   street: 
   city: 
   region: 
   postcode: 
-  country: Spain
+  country: Belgium
 
-summary: We present an implementation of a causal discovery algorithm that works under relaxed conditions.
-abstract: 'We present an implementation of a causal discovery algorithm that works under relaxed conditions.'
+summary: We present causal interpretations of anterial graphs, which generalises causal interpretations of well known graph classes such as DAGs, chain graphs and ancestral graphs.
+abstract: 'We present causal interpretations of anterial graphs, which generalises causal interpretations of well known graph classes such as DAGs, chain graphs and ancestral graphs. Poster related to the talk attached.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-07-17T12:00:00Z'
+date: '2025-04-10T12:00:00Z'
 date_end: ''
 all_day: false
 
@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**uai2024**](https://www.auai.org/uai2024/)'
+  caption: 'Image credit: [**EUROCIM**](https://www.eurocim.org/)'
   focal_point: Right
 
 #links:
@@ -41,7 +41,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/uai_poster.pdf'
+url_pdf: 'uploads/PosterPres.pdf'
 url_slides: ''
 url_video: ''
 
