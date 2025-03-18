@@ -17,7 +17,7 @@ abstract: 'We present a general reasoning framework to systematically obtain con
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-18T12:00:00Z'
+date: '2025-04-18T12:00:00Z'
 date_end: ''
 all_day: false
 
