@@ -1,23 +1,23 @@
 ---
-title: Short Presentation at ICSDS 2023
+title: Oral Presentation at EUROCIM 2025
 
-event: 2023 IMS International Conference on Statistics and Data Science
-event_url: https://www.auai.org/uai2024/](https://sites.google.com/view/icsds2023
+event: European Causal Inference Meeting 2025
+event_url: https://www.eurocim.org/
 
-location: Lisbon
+location: Ghent
 address:
   street: 
   city: 
   region: 
   postcode: 
-  country: Portugal
+  country: Belgium
 
-summary: We present a general reasoning framework to systematically obtain conditions when any causal discovery algorithm that uses conditional independence of input data, works correctly.
-abstract: 'We present a general reasoning framework to systematically obtain conditions when any causal discovery algorithm that uses conditional independence of input data, works correctly.'
+summary: We present causal interpretations of anterial graphs, which generalises causal interpretations of well known graph classes such as DAGs, chain graphs and ancestral graphs.
+abstract: 'We present causal interpretations of anterial graphs, which generalises causal interpretations of well known graph classes such as DAGs, chain graphs and ancestral graphs. Poster related to the talk attached.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-12-19T12:00:00Z'
+date: '2025-04-10T12:00:00Z'
 date_end: ''
 all_day: false
 
@@ -32,7 +32,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [icsds2023](https://sites.google.com/view/icsds2023)'
+  caption: 'Image credit: [**EUROCIM**](https://www.eurocim.org/)'
   focal_point: Right
 
 #links:
@@ -41,7 +41,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/Lisbon_2023.pptx'
+url_pdf: 'uploads/PosterPres.pdf'
 url_slides: ''
 url_video: ''
 
