@@ -17,8 +17,8 @@ abstract: 'We present causal interpretations of anterial graphs, which generalis
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
-date_end: '2025-04-10T12:00:00Z'
+date: '2025-04-09T12:00:00Z'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
