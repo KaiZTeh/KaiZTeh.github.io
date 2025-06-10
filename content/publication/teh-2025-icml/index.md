@@ -5,7 +5,7 @@ authors:
 - Kayvan Sadeghi
 - Terry Soo
 date: 2025-None-01
-publishDate: '2024-12-06T11:23:51.910918Z'
+publishDate: '2025-06-09T11:23:51.910918Z'
 publication_types:
 - paper-conference
 publication: '*ICML 2025 Workshop - SCaling Up Intervention Models.*'
