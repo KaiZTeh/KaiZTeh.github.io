@@ -34,6 +34,8 @@ profiles:
     label: E-mail Me
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-4928-096X
+  - icon: github
+    url: https://github.com/KaiZTeh
 
 interests:
   - Causal Inference
