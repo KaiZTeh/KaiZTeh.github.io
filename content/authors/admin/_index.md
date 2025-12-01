@@ -40,6 +40,7 @@ profiles:
 interests:
   - Causal Inference
   - Graphical Modelling
+  - Real-World Motivated Methods
 
 education:
   - area: PhD Statistical Science
@@ -106,6 +107,6 @@ awards:
 
 ## About Me
 
-I'm Kai, a PhD student at the Department of Statistical Science in UCL, supervised by [Dr Kayvan Sadeghi](https://www.homepages.ucl.ac.uk/~ucakksa/) and [Dr Terry Soo](https://tsoo-math.github.io/). My research is primarily in graphical causal inference. I am also a teaching assistant for the Department of Statistical Science and Division of Biosciences in UCL. I also host the [UCL Computational Statistics/Machine Learning ELLIS Seminars](https://ucl-ellis.github.io/jt_csml_seminar_home/).
+I'm Kai, a PhD student at the Department of Statistical Science in UCL, supervised by [Dr Kayvan Sadeghi](https://www.homepages.ucl.ac.uk/~ucakksa/) and [Prof Terry Soo](https://tsoo-math.github.io/). I am also a research assistant at Wolfram Research Europe and a teaching assistant for the Department of Statistical Science, Division of Biosciences and Academic Communication Center in UCL. I hosted the [UCL Computational Statistics/Machine Learning ELLIS Seminars](https://ucl-ellis.github.io/jt_csml_seminar_home/).
 
 Prior to this, I obtained my master's in Engineering Science from the University of Oxford, with an emphasis on software, machine learning and control. I am open to work opportunities in Statistics, Data Science and Machine Learning.
