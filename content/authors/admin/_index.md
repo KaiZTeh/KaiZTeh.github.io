@@ -45,8 +45,8 @@ interests:
 education:
   - area: PhD Statistical Science
     institution: University College London
-    date_start: 2022-01-01
-    date_end: 2025-07-31
+    date_start: 2022-01-31
+    date_end: 2026-04-30
   - area: MEng Engineering Science 
     institution: University of Oxford
     date_start: 2017-10-01
@@ -59,7 +59,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-01-01
-    date_end: ''
+    date_end: '2025-06-10'
     summary: |2-
       Modules taught include:
       - STAT0002: Introduction to Probability and Statistics
