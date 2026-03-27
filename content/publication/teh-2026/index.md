@@ -8,7 +8,7 @@ date: '2026-03-25'
 publishDate: '2026-03-25T11:23:51.920503Z'
 publication_types:
 - Preprint
-publication: '**'
+publication: '*Preprint*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2603.24859
